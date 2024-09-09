@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #1e90ff;
+}
+
+.card {
+    border-color: #1e90ff;
+}
+
+.btn-primary {
+    background-color: #1e90ff;
+    border-color: #1e90ff;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: rgba(30, 144, 255, 0.1);
+}
